@@ -55,7 +55,7 @@ main{
     background-color: green;
     left: 2rem;
   }
-  #last{
+  .last{
     left: 0%;
   }
   i
@@ -169,7 +169,7 @@ footer
     color: white;
     font-size: 12px;
   }
-  #bold{
+  .bold{
     font-weight: bold;
   }
   nav
