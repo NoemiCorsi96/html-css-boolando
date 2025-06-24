@@ -51,13 +51,16 @@
     background-color: green;
     left: 2rem;
   }
+  #last{
+    left: 0%;
+  }
   i
     {
       position: absolute;
-      top: 5%;
+      top: 2%;
       left: 100%;
       background-color: white;
-      transform: translate(-100%,-100%);
+      transform: translate(-100%,-0%);
 
       
     }
